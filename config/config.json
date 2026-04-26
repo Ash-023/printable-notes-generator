@@ -1,0 +1,12 @@
+{
+    "source_folder": "D:/notes/notes/",
+    "destination_folder": "D:/notes/notes_inverted/",
+    "remove_first_page": false,
+    "remove_last_page": false,
+    "slides_per_page": 3,
+    "dpi": 72,
+    "jpg_quality": 75,
+    "output_size_mm": [210, 297],
+    "margin_mm": 2,
+    "slide_spacing_mm": 2
+}
