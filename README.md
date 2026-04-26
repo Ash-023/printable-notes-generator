@@ -1,7 +1,7 @@
 # Printable Notes Generator for PW And Other Platforms📄
 
 A lightweight desktop tool to automatically crop, invert, and format PDF lecture slides for better readability and printing.
-
+[![Download Latest Release](https://img.shields.io/github/v/release/Ash-023/printable-notes-generator?style=for-the-badge&label=Download%20Latest%20Version&color=success)](https://github.com/Ash-023/printable-notes-generator/releases/latest)
 ---
 
 ## How It Works & Features
@@ -20,13 +20,14 @@ This tool is designed to process batches of PDF slides and make them print-frien
 
 You do not need to install Python or know how to code to use this tool.
 
-1. Go to the **[Releases Page](../../releases/latest)**.
+1. Click the **[Download Latest Version](https://github.com/Ash-023/printable-notes-generator/releases/latest)** button above.
 2. Download the latest `Printable_Notes_Generator.exe` file under "Assets".
    For Mac Users: Download the zip file and extract it.
 3. Double-click the `.exe` (for Windows Users) or `.app` (for Mac Users) to open the application window.
 4. Select your folders, configure your slide settings, and hit "Start Processing"!
 
 _(Note for Windows Users: Windows Defender may show a "Windows protected your PC" warning since this is an indie developer app. Click "More info" > "Run anyway" to proceed)._
+
 _(Note for Mac Users: Because this is an indie application, macOS may block it from opening initially. To bypass this, Right-Click (or Control-click) the application file and select Open from the menu, then confirm you want to open it.)._
 
 ---
