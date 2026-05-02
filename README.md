@@ -2,7 +2,8 @@
 
 A lightweight desktop tool to automatically crop, invert, format, and merge PDF lecture slides for better readability and printing.
 
-[![Download Latest Release](https://img.shields.io/github/v/release/Ash-023/printable-notes-generator?style=for-the-badge&label=Download%20Latest%20Version&color=success)](https://github.com/Ash-023/printable-notes-generator/releases/latest)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Ash-023/printable-notes-generator/releases/latest/download/Printable_Notes_Generator.exe)
+[![Download for Mac](https://img.shields.io/badge/Download_for_Mac-black?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Ash-023/printable-notes-generator/releases/latest/download/Printable_Notes_Generator_macOS.zip)
 
 ---
 
