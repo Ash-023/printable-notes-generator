@@ -4,7 +4,6 @@ A lightweight desktop tool to automatically crop, invert, format, and merge PDF 
 
 [![Download Latest Release](https://img.shields.io/github/v/release/Ash-023/printable-notes-generator?style=for-the-badge&label=Download%20Latest%20Version&color=success)](https://github.com/Ash-023/printable-notes-generator/releases/latest)
 
-[![Download Latest Release](https://img.shields.io/github/v/release/Ash-023/printable-notes-generator?style=for-the-badge&label=Download%20Latest%20Version&color=success)](https://github.com/Ash-023/printable-notes-generator/releases/latest)
 ---
 
 ## How It Works & Features
